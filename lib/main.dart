@@ -88,7 +88,7 @@ Widget buttonEntry(){
   return TextButton(
     style: TextButton.styleFrom(
     foregroundColor: Colors.white,
-    backgroundColor: Colors.purple,
+    backgroundColor: Colors.blue,
     padding: const EdgeInsets.symmetric(horizontal: 100 , vertical: 10),
     ),
     onPressed: (){}, 
